@@ -1,8 +1,8 @@
 <div align="center">
-  <p float="left">
-  <img src="docs/source/_static/images/ZLogo.png" width="25%"/> 
-    <img src="docs/nlp.png" width="25%"/>
-</p>
+
+  <img src="docs/source/_static/images/ZLogo.png" width="25%"> 
+    
+
 
 
   
