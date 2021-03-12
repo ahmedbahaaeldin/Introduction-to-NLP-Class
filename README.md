@@ -11,3 +11,5 @@
   
 </div>
   
+### You found a bug or have a fruitful suggesstion ?
+Please, [open an issue][issue], if you solved it [open a pull request][pr]!. 
