@@ -22,6 +22,18 @@ If you solved it [open a pull request][pr]!.
 - [Installation](#installation)
 - [Tutorials](#tutorials)
 
+## Installation
+([↑up to contents](#contents))
+First you need to download [Git][git]. Select your OS from macOS, Windows, Linux/Unix.
+
+After the completion of the installment, you should be to clone any repository now.
+
+#### How to clone a repo ?
+First you go to repo main page. Like our repo. 
+<div align="center">
+<img src="docs/source/MainRepo.JPG" width="100%">
+</div>
 [issue]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/issues/new
 [pr]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/compare
+[git]: https://git-scm.com/download/
 
