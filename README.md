@@ -56,8 +56,10 @@ Cloning a repository makes contributing to open source projects easier as when y
 -------------------------------------------------------------------------------- 
 
 - Now you successfully have the current version of the repo. If there is a release of a new assignment or any material. 
+You can simply use ``` git pull ``` command where you literally pull the latest version of the code. You first go to the directory where you saved your repo and type the command.
 
-You can simply use ``` git pull ``` command where you literally pull the latest version of the code.
+
+
 
 [issue]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/issues/new
 [pr]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/compare
