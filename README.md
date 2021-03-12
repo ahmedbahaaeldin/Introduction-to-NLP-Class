@@ -35,12 +35,15 @@ After the completion of the installment, you should be to clone any repository n
 <img src="docs/source/MainRepo.JPG" width="100%">
 </div>
 
+-------------------------------------------------------------------------------- 
+
  - Then you select the download button and click the copy button.
 
 <div align="center">
 <img src="docs/gitclone.jpg" width="50%">
 </div>
 
+-------------------------------------------------------------------------------- 
 
 [issue]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/issues/new
 [pr]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/compare
