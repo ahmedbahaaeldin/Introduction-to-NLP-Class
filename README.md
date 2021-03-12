@@ -16,3 +16,4 @@ Please, [open an issue][issue], if you solved it [open a pull request][pr]!.
 
 
 [issue]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/issues/new
+[pr]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/compare
