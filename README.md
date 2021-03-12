@@ -6,5 +6,6 @@
   
   
   ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
+  ![Eng.Ahmed Email](https://img.shields.io/badge/docs-0.4.4-blue)](ahmedbahaa944@gmail.com)
 </div>
   
