@@ -34,6 +34,11 @@ First you go to repo main page. Like our repo.
 <img src="docs/source/MainRepo.JPG" width="100%">
 </div>
 
+Then you select the download button and click the copy button.
+
+<div align="center">
+<img src="docs/source/gitclone.jpg" width="50%">
+</div>
 
 
 [issue]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/issues/new
