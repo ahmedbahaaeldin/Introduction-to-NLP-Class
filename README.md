@@ -26,7 +26,9 @@ If you solved it [open a pull request][pr]!.
 ([↑up to contents](#contents))
 First you need to download [Git][git]. Select your OS from macOS, Windows, Linux/Unix.
 
-After the completion of the installment, you should be to clone any repository now.
+After the completion of the installment, you should be able to clone any repository now. Git is mainly used as a version control tool as there is no perfect software and there is always bugs/issues. So there is an essential need to maintain a working version of the software while keeping track of progress.
+
+Cloning a repository makes contributing to open source projects easier as when you add new feature, you design it on your local machine then ask the owner to push your code.
 
 #### How to clone a repo ?
  - First you go to repo main page. Like our repo. 
