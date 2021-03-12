@@ -29,12 +29,13 @@ First you need to download [Git][git]. Select your OS from macOS, Windows, Linux
 After the completion of the installment, you should be to clone any repository now.
 
 #### How to clone a repo ?
-First you go to repo main page. Like our repo. 
+ - First you go to repo main page. Like our repo. 
+
 <div align="center">
 <img src="docs/source/MainRepo.JPG" width="100%">
 </div>
 
-Then you select the download button and click the copy button.
+ - Then you select the download button and click the copy button.
 
 <div align="center">
 <img src="docs/gitclone.jpg" width="50%">
