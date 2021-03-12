@@ -49,6 +49,10 @@ Cloning a repository makes contributing to open source projects easier as when y
 
 - Then you open the Git Bash. Using ``` cd: change directory ``` to allocate the repo in your work area. Then type ``` git clone + URL you copied ```
 
+<div align="center">
+<img src="docs/gitBash.jpg" width="50%">
+</div>
+
 [issue]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/issues/new
 [pr]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/compare
 [git]: https://git-scm.com/download/
