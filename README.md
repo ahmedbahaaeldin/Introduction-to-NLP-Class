@@ -37,7 +37,7 @@ First you go to repo main page. Like our repo.
 Then you select the download button and click the copy button.
 
 <div align="center">
-<img src="docs/source/gitclone.jpg" width="50%">
+<img src="docs/gitclone.jpg" width="50%">
 </div>
 
 
