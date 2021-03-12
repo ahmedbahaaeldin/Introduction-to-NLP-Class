@@ -3,6 +3,6 @@
 
   
   **Introduction to NLP Class repository for Students Material.**
-  ![![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]
+  [![Python 3.6](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 </div>
   
