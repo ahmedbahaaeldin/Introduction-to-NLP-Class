@@ -47,6 +47,8 @@ Cloning a repository makes contributing to open source projects easier as when y
 
 -------------------------------------------------------------------------------- 
 
+- Then you open the Git Bash. Using ''' cd: change directory '''
+
 [issue]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/issues/new
 [pr]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/compare
 [git]: https://git-scm.com/download/
