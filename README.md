@@ -62,6 +62,13 @@ You can simply use ``` git pull ``` command where you literally pull the latest 
 <img src="docs/gitPull.jpg" width="50%">
 </div>
 
+-------------------------------------------------------------------------------- 
+
+## Tutorials
+([↑up to contents](#contents))
+``` 
+TODO
+```
 
 [issue]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/issues/new
 [pr]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/compare
