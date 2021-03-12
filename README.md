@@ -3,6 +3,6 @@
 
   
   **Introduction to NLP Class repository for Students Material.**
-  ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+  ![![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]
 </div>
   
