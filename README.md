@@ -53,6 +53,12 @@ Cloning a repository makes contributing to open source projects easier as when y
 <img src="docs/gitBash.jpg" width="50%">
 </div>
 
+-------------------------------------------------------------------------------- 
+
+- Now you successfully have the current version of the repo. If there is a release of a new assignment or any material. 
+
+You can simply use ``` git pull ``` command where you literally pull the latest version of the code.
+
 [issue]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/issues/new
 [pr]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/compare
 [git]: https://git-scm.com/download/
