@@ -10,12 +10,16 @@
   [![Eng.Roba Email](https://img.shields.io/badge/Eng.Roba-Email-pink)](mailto:eng.robagamal@gmail.com)
   
 </div>
-  
+ -------------------------------------------------------------------------------- 
 ### You found a bug or have a fruitful suggesstion ?
 Please, [open an issue][issue].
 
 If you solved it [open a pull request][pr]!. 
 
+## Contents:
+- [Installation](#installation)
+- [Tutorials](#tutorials)
 
 [issue]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/issues/new
 [pr]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/compare
+
