@@ -71,7 +71,7 @@ You can simply use ``` git pull ``` command where you literally pull the latest 
 ## Tutorials
 ([↑up to contents](#contents))
 Tutorial | Resources
- --- | --- 
+ ------------ | ------------------------ 
 Tutorial 1 | [Introduction to python][tut1]
 
 [issue]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/issues/new
