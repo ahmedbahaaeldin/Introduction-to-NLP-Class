@@ -84,6 +84,7 @@ You can simply use ``` git pull ``` command where you literally pull the latest 
  .Tut table{
  width:100%;
  }
+ 
  </style>
 
 [issue]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/issues/new
