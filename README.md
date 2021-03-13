@@ -70,11 +70,12 @@ You can simply use ``` git pull ``` command where you literally pull the latest 
 
 ## Tutorials
 ([↑up to contents](#contents))
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+Tutorial | Resources
+ --- | --- 
+Tutorial 1 | [Introduction to python][tut1]
 
 [issue]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/issues/new
 [pr]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/compare
 [git]: https://git-scm.com/download/
+[tut1]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/blob/main/Tutorials/Intro_to_python.ipynb
 
