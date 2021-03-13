@@ -71,17 +71,14 @@ You can simply use ``` git pull ``` command where you literally pull the latest 
 ## Tutorials
 ([↑up to contents](#contents))
 
-<div class="Tut">
+<div style="width:500px" align="center">
   
-|Tutorial | Resources
- |------------ | -------------
-|Tutorial 1 | [Introduction to python][tut1]
-
-</div>
- 
 Tutorial                    | Resource          | Reading Material
 ------------------------- | --------------- | ----------------
 Tutorial 1                    | [Introduction to python][tut1]   | http://www.omahapython.org/IdiomaticPython.html
+</div>
+ 
+
 
 
 
