@@ -70,9 +70,9 @@ You can simply use ``` git pull ``` command where you literally pull the latest 
 
 ## Tutorials
 ([↑up to contents](#contents))
-``` 
-TODO
-```
+| Attempt | #1 | #2 |
+| :---: | :---: | :---: |
+| Seconds | 301 | 283 |
 
 [issue]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/issues/new
 [pr]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/compare
