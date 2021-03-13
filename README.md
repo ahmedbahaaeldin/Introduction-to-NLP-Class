@@ -28,6 +28,7 @@ If you solved it [open a pull request][pr]!.
 
 ## Installation
 ([↑up to contents](#contents))
+
 First you need to download [Git][git]. Select your OS from macOS, Windows, Linux/Unix.
 
 After the completion of the installment, you should be able to clone any repository now. Git is mainly used as a version control tool as there is no perfect software and there is always bugs/issues. So there is an essential need to maintain a working version of the software while keeping track of progress.
