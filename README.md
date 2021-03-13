@@ -72,9 +72,11 @@ You can simply use ``` git pull ``` command where you literally pull the latest 
 ([↑up to contents](#contents))
 
 <div class="Tut">
+  
 |Tutorial | Resources
- |------------ | ------------------------ 
+ |------------ | -------------
 |Tutorial 1 | [Introduction to python][tut1]
+
 </div>
 
 .Tut table {
