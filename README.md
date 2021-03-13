@@ -71,7 +71,7 @@ You can simply use ``` git pull ``` command where you literally pull the latest 
 ## Tutorials
 ([↑up to contents](#contents))
 
-<div class="Tut">
+<div class="Tut" style="width:100%">
   
 |Tutorial | Resources
  |------------ | -------------
@@ -79,9 +79,7 @@ You can simply use ``` git pull ``` command where you literally pull the latest 
 
 </div>
 
-.Tut table {
-   min-width: 100%;
-}
+
 
 [issue]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/issues/new
 [pr]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/compare
