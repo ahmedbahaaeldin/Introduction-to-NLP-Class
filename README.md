@@ -71,7 +71,7 @@ You can simply use ``` git pull ``` command where you literally pull the latest 
 ## Tutorials
 ([↑up to contents](#contents))
 
-<div style="width:500px" align="center">
+<div align="center">
   
 Tutorial                    | Resource          | Reading Material
 ------------------------- | --------------- | ----------------
