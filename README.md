@@ -101,6 +101,7 @@ table th:nth-of-type(4) {
 | Bar     | bar     | bar     | bar      |
 +---------+---------+---------+----------+
 
+
 [issue]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/issues/new
 [pr]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/compare
 [git]: https://git-scm.com/download/
