@@ -70,6 +70,7 @@ You can simply use ``` git pull ``` command where you literally pull the latest 
 
 ## Tutorials
 ([↑up to contents](#contents))
+
 <div class="Tut">
 |Tutorial | Resources
  |------------ | ------------------------ 
