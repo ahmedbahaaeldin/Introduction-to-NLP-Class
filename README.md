@@ -77,7 +77,7 @@ You can simply use ``` git pull ``` command where you literally pull the latest 
 Tutorial                    | Resource          | Reading Material
 ------------------------- | --------------- | ----------------
 Tutorial 1                    | [Introduction to python][tut1]   | http://www.omahapython.org/IdiomaticPython.html
-Tutorial 2                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmedbahaaeldin/Introduction-to-NLP-Class/blob/main/Tutorials/Regex-Tutorial.ipynb)
+Tutorial 2                   |[Introduction to Regex][tut2] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmedbahaaeldin/Introduction-to-NLP-Class/blob/main/Tutorials/Regex_Tutorial.ipynb)
 </div>
  
 
@@ -88,4 +88,4 @@ Tutorial 2                   | [![Open In Colab](https://colab.research.google.c
 [pr]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/compare
 [git]: https://git-scm.com/download/
 [tut1]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/blob/main/Tutorials/Intro_to_python.ipynb
-[tut2]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/blob/main/Tutorials/Regex-Tutorial.ipynb
+[tut2]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/blob/main/Tutorials/Regex_Tutorial.ipynb
