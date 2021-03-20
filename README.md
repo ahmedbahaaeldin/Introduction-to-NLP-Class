@@ -77,6 +77,7 @@ You can simply use ``` git pull ``` command where you literally pull the latest 
 Tutorial                    | Resource          | Reading Material
 ------------------------- | --------------- | ----------------
 Tutorial 1                    | [Introduction to python][tut1]   | http://www.omahapython.org/IdiomaticPython.html
+Tutorial 2                   | [Introduction to Regex][tut2]   | 
 </div>
  
 
@@ -87,4 +88,4 @@ Tutorial 1                    | [Introduction to python][tut1]   | http://www.om
 [pr]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/compare
 [git]: https://git-scm.com/download/
 [tut1]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/blob/main/Tutorials/Intro_to_python.ipynb
-
+[tut2]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/blob/main/Tutorials/Regex-Tutorial.ipynb
