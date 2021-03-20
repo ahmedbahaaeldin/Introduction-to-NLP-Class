@@ -23,8 +23,9 @@ Please, [open an issue][issue].
 If you solved it [open a pull request][pr]!. 
 
 ## Contents:
-- [Installation](#installation)
 - [Tutorials](#tutorials)
+- [Installation](#installation)
+
 
 ## Tutorials
 ([↑up to contents](#contents))
