@@ -26,6 +26,19 @@ If you solved it [open a pull request][pr]!.
 - [Installation](#installation)
 - [Tutorials](#tutorials)
 
+## Tutorials
+([↑up to contents](#contents))
+
+<div align="center">
+  
+Tutorial                    | Resource          | Reading Material
+------------------------- | --------------- | ----------------
+Tutorial 1                    | [Introduction to python][tut1]   | http://www.omahapython.org/IdiomaticPython.html
+Tutorial 2                   |[Introduction to Regex][tut2] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmedbahaaeldin/Introduction-to-NLP-Class/blob/main/Tutorials/Regex_Tutorial.ipynb)
+</div>
+
+ -------------------------------------------------------------------------------- 
+
 ## Installation
 ([↑up to contents](#contents))
 
@@ -69,16 +82,7 @@ You can simply use ``` git pull ``` command where you literally pull the latest 
 
 -------------------------------------------------------------------------------- 
 
-## Tutorials
-([↑up to contents](#contents))
 
-<div align="center">
-  
-Tutorial                    | Resource          | Reading Material
-------------------------- | --------------- | ----------------
-Tutorial 1                    | [Introduction to python][tut1]   | http://www.omahapython.org/IdiomaticPython.html
-Tutorial 2                   |[Introduction to Regex][tut2] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmedbahaaeldin/Introduction-to-NLP-Class/blob/main/Tutorials/Regex_Tutorial.ipynb)
-</div>
  
 
 
