@@ -3,9 +3,11 @@
 
 when you extract the zip you should have two folders :
 
+```
 Python 
 
 Data 
+```
 
 The code is inside the Python folder called regexclass.py
 
