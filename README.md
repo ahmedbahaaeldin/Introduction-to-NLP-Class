@@ -36,7 +36,7 @@ Tutorial                    | Resource          | Links
 ------------------------- | --------------- | ----------------
 Tutorial 1                    | [Introduction to python][tut1]   | http://www.omahapython.org/IdiomaticPython.html
 Tutorial 2                   |[Introduction to Regex][tut2] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmedbahaaeldin/Introduction-to-NLP-Class/blob/main/Tutorials/Regex_Tutorial.ipynb)
-Tutorial 3 |[Language Modeling][tut3] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmedbahaaeldin/Introduction-to-NLP-Class/blob/main/Language-Model.ipynb)
+Tutorial 3 |[Language Modeling][tut3] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahmedbahaaeldin/Introduction-to-NLP-Class/blob/main/Language_Model.ipynb)
 </div>
 
  -------------------------------------------------------------------------------- 
@@ -95,4 +95,4 @@ You can simply use ``` git pull ``` command where you literally pull the latest 
 [git]: https://git-scm.com/download/
 [tut1]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/blob/main/Tutorials/Intro_to_python.ipynb
 [tut2]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/blob/main/Tutorials/Regex_Tutorial.ipynb
-[tut3]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/blob/main/Language-Model.ipynb
+[tut3]: https://github.com/ahmedbahaaeldin/Introduction-to-NLP-Class/blob/main/Language_Model.ipynb
